@@ -40,7 +40,7 @@ Verify Python 3:
 
 ```
 $ python3 --version
-Python 3.6.X
+Python 3.X.X
 ```
 
 Verify Python 2.7 still works:
