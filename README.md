@@ -66,9 +66,9 @@ $ echo -e 'eval "$(pipenv --completion)"' >> ~/.profile
 $ source ~/.profile
 ```
 
--U (--user) tells Pip3 to install packages into a user-specific directory
--e allows for interpretation of escape characters
-source ~/.profile is used to manually run .profile
+* -U (--user) tells Pip3 to install packages into a user-specific directory
+* -e allows for interpretation of escape characters
+* source ~/.profile is used to manually run .profile
 
 Install Pipenv for Python 2 **(optional)**:
 
@@ -86,4 +86,6 @@ $ pip install -U pipenv
 
 ## Create an SSH key
 
-You'll need an SSH key when using Github. SSH keys are a way to identify trusted computers, without involving passwords. Walk through the steps in the following tutorial to create your SSH key and add it to your Github account. Read the instructions completely, don't skim or skip. *Make sure to read the instructions carefully, the tutorial tells you everything you need to do.* [https://help.github.com/articles/generating-ssh-keys](https://help.github.com/articles/generating-ssh-keys)
+You'll need an SSH key when using Github. SSH keys are a way to identify trusted computers, without involving passwords. Walk through the steps in the following tutorial to create your SSH key and add it to your Github account. Read the instructions completely, don't skim or skip.
+
+*Make sure to read the instructions carefully, the tutorial tells you everything you need to do.* [https://help.github.com/articles/generating-ssh-keys](https://help.github.com/articles/generating-ssh-keys)
