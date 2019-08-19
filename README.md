@@ -8,9 +8,9 @@ The easiest way to open an application is to search for it via Spotlight. To ope
 
 ## Homebrew and Xcode
 
-This guide assumes you are on a Mac and will be using homebrew.
+This guide assumes you are on a Mac and will be using Homebrew.
 
-Install [Command Line Tools]http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/):
+Install [Command Line Tools](http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/):
 
 ```
 $ xcode-select --install
