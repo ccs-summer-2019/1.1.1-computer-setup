@@ -52,11 +52,11 @@ Python 2.7.X (default, Dec 18 2016, 07:03:39)
 Type "help", "copyright", "credits" or "license" for more information.
 ```
 
-Use exit() or Ctrl-D to exit Python's interactive shell.
+Use `exit()` or `Ctrl-D` to exit the interactive shell.
 
 ## Pipenv
 
-The `pipenv` program is designed to combine pip and virtualenv into one program. It has become the official Python-recommended resource for managing package dependencies.
+Pipenv is designed to combine pip and virtualenv into one program. It has become the official Python-recommended resource for managing package dependencies.
 
 Install Pipenv for Python 3:
 
