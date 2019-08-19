@@ -27,7 +27,7 @@ $ brew doctor
 
 ## Python Versions with Homebrew
 
-You can manage python versions with Homebrew. 
+You can manage Python versions with Homebrew. 
 
 Install Python 3:
 
