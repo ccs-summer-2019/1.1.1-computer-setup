@@ -66,6 +66,10 @@ $ echo -e 'eval "$(pipenv --completion)"' >> ~/.profile
 $ source ~/.profile
 ```
 
+-U (--user) tells Pip3 to install packages into a user-specific directory
+-e allows for interpretation of escape characters
+source ~/.profile is used to manually run .profile
+
 Install Pipenv for Python 2 **(optional)**:
 
 ```
