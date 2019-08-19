@@ -10,18 +10,18 @@ The easiest way to open an application is to search for it via Spotlight. To ope
 
 This guide assumes you are on a Mac and will be using homebrew.
 
-Install Xcode package:
+Install [Command Line Tools]http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/):
 
 ```
 $ xcode-select --install
 ```
 
-Click through all confirmation commands.
+When prompted, click `Install` to install the command line developer tools.
 
-Install homebrew:
+Install [Homebrew](https://brew.sh/):
 
 ```
-$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 $ brew doctor
 ```
 
