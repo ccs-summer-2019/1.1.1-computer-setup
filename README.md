@@ -1,4 +1,4 @@
-# Computer Setup
+# 1.1.1 Computer Setup
 
 ## Setup your development environment
 
