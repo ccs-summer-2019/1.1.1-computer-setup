@@ -79,12 +79,29 @@ $ pip install -U pipenv
 ## Apps
 
 * [Install Google Chrome for Mac](https://www.google.com/chrome/)
-* [Install Atom](https://atom.io/)
 * [Install Slack](https://slack.com/downloads/mac)
-* [Create a GitHub Account](https://github.com/)
 * [Install PyCharm](https://www.jetbrains.com/pycharm/)
 
-## Create an SSH key
+## Atom
+
+[Install Atom](https://atom.io/)
+
+Recommended packages for Atom:
+
+* atom-ternjs
+* emmet
+* linter
+* linter-htmlhint
+* linter-jshint
+* linter-scss-lint
+
+* Change Autocomplete Plus's "Keymap for Confirming a Suggestion" to "enter" so that it doesn't conflict with Emmet.
+
+## GitHub
+
+[Create a GitHub Account](https://github.com/)
+
+### Create an SSH key
 
 You'll need an SSH key when using Github. SSH keys are a way to identify trusted computers, without involving passwords. Walk through the steps in the following tutorial to create your SSH key and add it to your Github account. Read the instructions completely, don't skim or skip.
 
