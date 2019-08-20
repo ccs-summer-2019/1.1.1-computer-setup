@@ -81,25 +81,12 @@ $ pip install -U pipenv
 * [Install Google Chrome for Mac](https://www.google.com/chrome/)
 * [Install Slack](https://slack.com/downloads/mac)
 * [Install PyCharm](https://www.jetbrains.com/pycharm/)
+* [Install Atom](https://atom.io/)
+* [Create a GitHub Account](https://github.com/)
 
-## Atom
+## Atom Packages
 
-[Install Atom](https://atom.io/)
-
-Recommended packages for Atom:
-
-* atom-ternjs
-* emmet
-* linter
-* linter-htmlhint
-* linter-jshint
-* linter-scss-lint
-
-* Change Autocomplete Plus's "Keymap for Confirming a Suggestion" to "enter" so that it doesn't conflict with Emmet.
-
-## GitHub
-
-[Create a GitHub Account](https://github.com/)
+*Change Autocomplete Plus's "Keymap for Confirming a Suggestion" to "enter" so that it doesn't conflict with Emmet.*
 
 ### Create an SSH key
 
