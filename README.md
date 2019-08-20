@@ -84,7 +84,14 @@ $ pip install -U pipenv
 * [Install Atom](https://atom.io/)
 * [Create a GitHub Account](https://github.com/)
 
-## Atom Packages
+### Recommended Packages for Atom
+
+* [atom-ternjs](https://atom.io/packages/atom-ternjs)
+* [emmet](https://atom.io/packages/emmet)
+* [linter](https://atom.io/packages/linter)
+* [linter-htmlhint](https://atom.io/packages/linter-htmlhint)
+* [linter-jshint](https://atom.io/packages/linter-jshint)
+* [linter-scss-lint](https://atom.io/packages/linter-scss-lint)
 
 *Change Autocomplete Plus's "Keymap for Confirming a Suggestion" to "enter" so that it doesn't conflict with Emmet.*
 
